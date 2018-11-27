@@ -9,3 +9,4 @@ public ststic void main(String args[])
 Newclass n=new Newclass();
 n.method1();
 }
+exit
